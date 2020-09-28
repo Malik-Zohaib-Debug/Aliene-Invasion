@@ -34,6 +34,8 @@ loses a ship. If the player loses three ships, the game ends.
 ### Cloning the Repository
 
 ```
+$ Source code is on my github repository
+
 $ git clone https://github.com/Malik-Zohaib-Debug/Aliene-Invasion.git
 
 $ cd Alien-Invasion
